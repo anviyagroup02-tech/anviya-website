@@ -1,0 +1,322 @@
+[
+  {
+    "classLevel": "Playschool",
+    "subject": "Language & Communication",
+    "title": "Listening & Speaking",
+    "description": "Basic communication skills, understanding simple words, speaking in sentences, rhymes and songs.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Playschool",
+    "subject": "Language & Communication",
+    "title": "Pre-writing & Alphabet",
+    "description": "Letter recognition, alphabet tracing, basic phonics, and pre-writing exercises.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Playschool",
+    "subject": "Maths",
+    "title": "Numbers & Counting",
+    "description": "Counting 1–20, number recognition, simple patterns, shapes, and sorting objects.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Playschool",
+    "subject": "Art & Music",
+    "title": "Drawing & Rhymes",
+    "description": "Finger painting, coloring, singing songs, and simple musical instruments.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Kindergarten",
+    "subject": "Language & Literacy",
+    "title": "Alphabet & Vocabulary",
+    "description": "Letter tracing, simple words, basic vocabulary, reading short sentences.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Kindergarten",
+    "subject": "Maths",
+    "title": "Numbers & Shapes",
+    "description": "Counting up to 50, number patterns, basic addition & subtraction, shapes recognition.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Kindergarten",
+    "subject": "EVS / GK",
+    "title": "Environment & Community",
+    "description": "Introduction to family, community helpers, plants, animals, weather, and festivals.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 1",
+    "subject": "English",
+    "title": "Alphabet & Words",
+    "description": "Upper & lower case letters, basic phonics, forming simple words, reading sentences.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 1",
+    "subject": "Maths",
+    "title": "Numbers & Operations",
+    "description": "Counting 1–100, addition, subtraction, number patterns, shapes, and measurement.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 1",
+    "subject": "EVS / GK",
+    "title": "Plants, Animals & Surroundings",
+    "description": "Basic understanding of plants, animals, family, neighborhood, festivals, and simple maps.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 2",
+    "subject": "English",
+    "title": "Grammar & Vocabulary",
+    "description": "Simple tenses, nouns, pronouns, adjectives, forming sentences, reading comprehension.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 2",
+    "subject": "Maths",
+    "title": "Numbers & Operations",
+    "description": "Place value up to 1000, addition, subtraction, multiplication, division, word problems, measurement.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 2",
+    "subject": "Science",
+    "title": "Living & Non-Living",
+    "description": "Plants, animals, human body parts, food, water, and basic environmental awareness.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 2",
+    "subject": "EVS / GK",
+    "title": "Environment & Community",
+    "description": "Local environment, family, community helpers, festivals, maps, and basic geography.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 3",
+    "subject": "English",
+    "title": "Grammar & Sentences",
+    "description": "Nouns, pronouns, verbs, adjectives, tenses, sentence structure, and punctuation.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 3",
+    "subject": "English",
+    "title": "Reading Comprehension",
+    "description": "Short stories, passages, and questions to improve understanding, vocabulary, and inference skills.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 3",
+    "subject": "Maths",
+    "title": "Numbers & Place Value",
+    "description": "Place value up to 10,000, expanded form, comparing, ordering, and rounding numbers.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 3",
+    "subject": "Maths",
+    "title": "Operations",
+    "description": "Addition, subtraction, multiplication, division, word problems, and mental math.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 3",
+    "subject": "Maths",
+    "title": "Fractions & Decimals",
+    "description": "Simple fractions, equivalent fractions, adding/subtracting fractions, introduction to decimals.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 3",
+    "subject": "Science",
+    "title": "Plants, Animals & Humans",
+    "description": "Plant parts, photosynthesis, animals & humans, organs, basic health, and nutrition.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 3",
+    "subject": "Science",
+    "title": "Matter & Energy",
+    "description": "States of matter, properties, simple machines, light, sound, and energy forms.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 3",
+    "subject": "EVS / GK",
+    "title": "Environment & Community",
+    "description": "Air, water, soil, natural resources, recycling, community helpers, basic geography & maps.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 3",
+    "subject": "Art & Music",
+    "title": "Drawing & Craft",
+    "description": "Shapes, patterns, crafts, painting techniques, and creativity enhancement.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 3",
+    "subject": "Art & Music",
+    "title": "Songs & Rhymes",
+    "description": "Learn rhymes, songs, music notes, and basic rhythm skills.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 4",
+    "subject": "English",
+    "title": "Grammar & Composition",
+    "description": "Advanced sentence structure, tenses, articles, prepositions, conjunctions, punctuation, and writing paragraphs.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 4",
+    "subject": "English",
+    "title": "Reading Comprehension",
+    "description": "Stories, poems, passages, inference questions, vocabulary, and critical thinking.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 4",
+    "subject": "Maths",
+    "title": "Numbers & Operations",
+    "description": "Place value up to 1,00,000, large numbers, addition, subtraction, multiplication, division, word problems.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 4",
+    "subject": "Maths",
+    "title": "Fractions, Decimals & Geometry",
+    "description": "Equivalent fractions, adding/subtracting, decimals, basic geometry shapes, perimeter, and area.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 4",
+    "subject": "Science",
+    "title": "Living & Non-living",
+    "description": "Plant & animal classification, human body, ecosystems, food chains, basic physics concepts.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 4",
+    "subject": "Science",
+    "title": "Matter, Energy & Environment",
+    "description": "States of matter, mixtures, solutions, energy forms, water cycle, pollution, and conservation.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 4",
+    "subject": "EVS / GK",
+    "title": "Geography & Civics",
+    "description": "Continents, countries, maps, local governance, cultural awareness, and environmental responsibility.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 4",
+    "subject": "Art & Music",
+    "title": "Drawing & Creative Arts",
+    "description": "Advanced craft, shading, perspective drawing, and creative expression through visual arts.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 5",
+    "subject": "English",
+    "title": "Grammar & Composition",
+    "description": "Complex sentence structures, direct & indirect speech, advanced tenses, vocabulary, essay writing, and letter writing.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 5",
+    "subject": "English",
+    "title": "Reading & Comprehension",
+    "description": "Short stories, poems, passages with analytical and inference questions, summarization, and vocabulary exercises.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 5",
+    "subject": "Maths",
+    "title": "Numbers, Operations & Fractions",
+    "description": "Large numbers, addition, subtraction, multiplication, division, fractions, decimals, and word problems.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 5",
+    "subject": "Maths",
+    "title": "Geometry, Measurement & Data",
+    "description": "Angles, perimeter, area, volume, time, weight, bar graphs, pictographs, and basic probability.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 5",
+    "subject": "Science",
+    "title": "Life & Living",
+    "description": "Plant & animal life cycles, human body systems, health, nutrition, ecosystems, adaptation, and classification.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 5",
+    "subject": "Science",
+    "title": "Matter, Energy & Environment",
+    "description": "States of matter, mixtures, chemical & physical changes, energy, electricity, magnetism, environment and conservation.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 5",
+    "subject": "EVS / GK",
+    "title": "Geography, History & Civics",
+    "description": "World geography, map skills, Indian history, governance, rights & responsibilities, and current events awareness.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  },
+  {
+    "classLevel": "Class 5",
+    "subject": "Art & Music",
+    "title": "Drawing, Craft & Music",
+    "description": "Advanced drawing techniques, craft projects, musical instruments, basic music theory, and performance.",
+    "worksheetColor": "link_to_color_worksheet",
+    "worksheetBW": "link_to_bw_worksheet"
+  }
+]
